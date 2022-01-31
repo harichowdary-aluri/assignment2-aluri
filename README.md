@@ -26,3 +26,6 @@ I join my friends in playing treasure hunt in the sand, which is based on hiding
 1. Chicken Mandi
 2. Mutton Mandi
 3. Prawns Mandi
+
+
+[More about me](https://github.com/harichowdary-aluri/assignment2-aluri/blob/main/AboutMe.md)
