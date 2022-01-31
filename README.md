@@ -28,7 +28,7 @@ I join my friends in playing treasure hunt in the sand, which is based on hiding
 3. Prawns Mandi
 
 
-[More about me](https://github.com/harichowdary-aluri/assignment2-aluri/blob/main/AboutMe.md).
+sMore about me (https://github.com/harichowdary-aluri/assignment2-aluri/blob/main/AboutMe.md).
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ I join my friends in playing treasure hunt in the sand, which is based on hiding
 
 >In geometry, the convex hull or convex envelope or convex closure of a shape is the smallest convex set that contains it. The convex hull may be defined either as the intersection of all convex sets containing a given subset of a Euclidean space, or equivalently as the set of all convex combinations of points in the subset. For a bounded subset of the plane, the convex hull may be visualized as the shape enclosed by a rubber band stretched around the subset.
 
-[Know more](https://en.wikipedia.org/wiki/Convex_hull)
+Know more (https://en.wikipedia.org/wiki/Convex_hull)
 
 struct pt {
     double x, y;
@@ -100,5 +100,5 @@ void convex_hull(vector<pt>& a, bool include_collinear = false) {
     a = st;
 }
 
-[Much more to know](https://cp-algorithms.com/geometry/convex-hull.html)
+Much more to know (https://cp-algorithms.com/geometry/convex-hull.html)
 
