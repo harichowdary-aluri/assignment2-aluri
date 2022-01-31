@@ -35,6 +35,7 @@ I join my friends in playing treasure hunt in the sand, which is based on hiding
 # Sports
 
 | Name   | Location   | Amount   |
+|--------|------------|----------|
 | Volley Ball   |Guntur   | $40   |
 | Basket Ball   | Vijayawada   | $20   |
 | Throw Ball   | Hyderabad   |$15   |
